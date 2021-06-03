@@ -1,5 +1,5 @@
 # Wound-Stitching
-This is my first project in Techport
+This is my first project in Techport ... 
 This project is related to providing a stitches to wounds .
 At first , the mask is created for the wound in image by using cv2 library in window .
 When you run the first lines of logic for masking, a window will be opened , where trackbars are given to create a mask .
